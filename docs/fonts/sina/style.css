@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "beispiel_font";
+  src: url('./webfont/ObtischAventuraGX.ttf') format('truetype');
+  font-weight: 0 1000;
+}
+
+#beispiel {
+  font-family: "beispiel_font";
+  font-variation-settings: "wght" 500;
+}
