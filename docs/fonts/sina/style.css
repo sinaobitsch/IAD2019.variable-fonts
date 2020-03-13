@@ -1,10 +1,10 @@
 @font-face {
-  font-family: "beispiel_font";
+  font-family: "ObtischAventuraGX.ttf";
   src: url('./webfont/ObtischAventuraGX.ttf') format('truetype');
   font-weight: 0 1000;
 }
 
 #sina {
-  font-family: "beispiel_font";
+  font-family: "ObtischAventuraGX.ttf";
   font-variation-settings: "wght" 500;
 }
